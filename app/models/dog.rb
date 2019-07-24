@@ -1,3 +1,2 @@
-class Dog < ApplicationRecord
-  establish_connection :secondary
+class Dog < SecondaryBase
 end

@@ -1,0 +1,15 @@
+
+account_concept_803285:
+  id: 803285
+  account_id: 472292
+  concept_id: 125
+  score: 0.342
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &1 2018-07-21 07:11:46.124693000 Z
+    zone: &2 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: *1
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &3 2018-07-21 07:11:46.124693000 Z
+    zone: *2
+    time: *3

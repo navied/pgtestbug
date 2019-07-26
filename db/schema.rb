@@ -12,9 +12,6 @@
 
 ActiveRecord::Schema.define(version: 2019_07_24_041120) do
 
-  # These are extensions that must be enabled in order to support this database
-  enable_extension "plpgsql"
-
   create_table "account_concepts", force: :cascade do |t|
     t.integer "account_id", null: false
     t.integer "concept_id", null: false
